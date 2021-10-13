@@ -1,0 +1,25 @@
+.userPost{
+	width:auto;
+	max-width: 300px;
+	height: auto;
+	display: inline-block;
+	flex-direction: column;
+}
+.post{
+	text-align: center;
+	justify-content: center;
+}
+
+@media(max-width:768px ){
+.userPost{
+	max-width: 300px;
+}
+
+}
+@media(max-width:676px ){
+.userPost{
+	font-size: 80%;
+	width: 90%;
+}
+
+}

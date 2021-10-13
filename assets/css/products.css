@@ -1,0 +1,128 @@
+@font-face {
+    font-family: Open Sans Regular;
+    src: url(../fonts/OpenSans-Regular.ttf)
+}
+
+@font-face {
+    font-family: Open Sans SemiBold;
+    src: url(../fonts/OpenSans-SemiBold.ttf)
+}
+
+@font-face {
+    font-family: Open Sans Bold;
+    src: url(../fonts/OpenSans-Bold.ttf)
+}
+.mainSection{
+	width: 100%;
+	height: auto;
+}
+.addProduct,.back{
+	float: right;
+	margin-right: 20px;
+}
+.orderSection{
+	text-align: center;
+	justify-content: center;
+
+}
+
+.addproducts{
+	cursor: pointer;
+	transition: .2s ease-in-out;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+	 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardHeader{
+	position: relative;
+	width: 100%;
+	height: 40%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	font-size: 50px;
+
+}
+form{
+	width: 40%;
+	margin: 5px auto !important;
+}
+input{
+	width: 40% ;
+	margin: 5px auto !important;
+}
+.productForm{
+	width: 90%;
+	height: auto;
+	padding-bottom: 20px;
+	background-color: white;
+	 margin:0 auto; 
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+	  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.addproducts:hover{
+	color: white;
+	background-color: #d9d9d9;
+}
+.cardDesc{
+	width: 100%;
+	height: 60%;
+}
+.cogStyle{
+	cursor: pointer;
+	position: relative !important;
+	top: -160px;
+	left: 130px;
+
+}
+textarea{
+	height: 100px !important;
+	resize: none !important;
+}
+.card-footer{
+	width: 100% !important;
+	margin-top: 3px;
+
+}
+label{
+	font-size: 20px;
+}
+ .card{
+    display: inline-flex !important;
+    margin: 10px;
+  }
+  @media(max-width: 576px){
+    .navbar-brand{
+      margin-left: 0;
+    }
+    .centerDIv{
+      margin: 0 1%;
+    }
+  }
+.card{
+	display: inline-flex;
+}
+@media(max-width:992px ){
+ input{
+ 	width: 30%;
+ }
+
+}
+
+@media(max-width:768px ){
+	form{
+		width: 80%;
+	}
+	.addProduct{
+		margin-right: 15px;
+	}
+	 input{
+ 	width: 80%;
+ }
+}
+
+@media(max-width:576px ){
+	.addProduct{
+		margin-right: 5px;
+	}
+}

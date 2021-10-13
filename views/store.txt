@@ -1,0 +1,102 @@
+ <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/818958_2069_3.jpg' alt='Card image' style='width:100%'>
+          <div >
+            <a href="index.html"> <span class="icon-cog cogStyle"></span> </a>
+          </div>
+           <div class='card-body'>
+            <h4 class='card-title'>Data/Statistical Analysis</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Learn about the important of data in various organization and the fascilitating important of Data analytical tools.</p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$500</span>
+            </div>
+            <div class="card-footer">
+              <span class="text-success ">Available Quantity:</span>
+              <b class="Quantity text-info">
+                50
+              </b>
+            </div>
+         </div>
+        </div>
+
+
+        <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/311538_d31f_3.jpg' alt='Card image' style='width:100%'>
+           <div class='card-body'>
+            <h4 class='card-title'>WEB DEVELOPMENT</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Exploit the web technologies,HTML/CSS,and JavaScript in details from scratch.</p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$300</span>
+            </div>
+         </div>
+        </div>
+
+
+        <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/2222850_4f40.jpg' alt='Card image' style='width:100%'>
+           <div class='card-body'>
+            <h4 class='card-title'>Backend Development</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Server-side development with NodeJs, mongoDB and express.Take your backend skill to the next level.</p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$400</span>
+            </div>
+         </div>
+        </div>
+        <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/818958_2069_3.jpg' alt='Card image' style='width:100%'>
+          <div >
+            <a href="index.html"> <span class="icon-cog cogStyle"></span> </a>
+          </div>
+           <div class='card-body'>
+            <h4 class='card-title'>Data/Statistical Analysis</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Learn about the important of data in various organization and the fascilitating important of Data analytical tools.</p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$500</span>
+            </div>
+            <div class="card-footer">
+              <span class="text-success ">Available Quantity:</span>
+              <b class="Quantity text-info">
+                50
+              </b>
+            </div>
+         </div>
+        </div>
+        <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/212374_a001_4.jpg' alt='Card image' style='width:100%'>
+           <div class='card-body'>
+            <h4 class='card-title'>Computer Science</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Learn about the Evolution of the leading technologies  around the world and the important of computer science. </p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$300</span>
+            </div>
+         </div>
+        </div>
+         <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/1000888_e8cb_3.jpg' alt='Card image' style='width:100%'>
+           <div class='card-body'>
+            <h4 class='card-title'>Machine Learning</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Learn about the Evolution of the leading technologies  around the world and the important of machine Learning. </p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$1200</span>
+            </div>
+         </div>
+        </div>
+         <div class='card' style="width: 300px">
+          <img class='card-img-top' src='../assets/images/1036542_2ba2.jpg' alt='Card image' style='width:100%'>
+           <div class='card-body'>
+            <h4 class='card-title'>Ancient History</h4>
+            <p class='card-text' style='font-size:90%;font-weight:400;'>Learn about the history of the world, primitive human species, evolution to present. </p>
+            <div class='flex' style='display:flex;width:100%;justify-content:space-between;height: 38px; align-items: center;'>
+            <button class='btn transform'  style='background-color: #0a2a66;color:white;'>Order</button>
+            <span class='text-muted'>$300</span>
+            </div>
+         </div>
+        </div>
+
+
+        <div class="alert alert-success" style="width: 80% !important;margin: 2px auto !important"></div>
